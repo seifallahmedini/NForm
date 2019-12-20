@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://seif123:seif123@cluster0-wm4qo.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secretTokem"
+}
